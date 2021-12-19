@@ -43,5 +43,5 @@ your MongoDB server name
 
 ![App Screenshot](./images/campgrounds2.jpg)
 
-![App Screenshot](./images/viewCampgrounds.jpg)
+![App Screenshot](./images/viewCampground.jpg)
 
